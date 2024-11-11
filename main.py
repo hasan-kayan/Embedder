@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import threading
-from .src.serial import MicrocontrollerFlasher
+from src.serial import MicrocontrollerFlasher
 
 
 # Main GUI application
